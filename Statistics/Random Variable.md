@@ -1,0 +1,1 @@
+A random variable is a function that maps from a sample space of events to typically a real number.

@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "6e14caef123c7c62",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8cf7bffa0689f5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01f474be8e59d318",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/Website Builder Options.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28dac75adf2d2cec",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9651723a97e0d35",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "501118555b961939",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8a5f0124e5df986",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ff2a984d0a5da1e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "13b9109e23be0858",
+    "type": "split",
+    "children": [
+      {
+        "id": "b83ad1f71d17fd2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f86610201877bd0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web Development/Website Builder Options.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "086cd7ec63336c5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Web Development/Website Builder Options.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8622f96b9ac98e41",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2b318100143406c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Web Development/Website Builder Options.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
+    }
+  },
+  "active": "01f474be8e59d318",
+  "lastOpenFiles": [
+    "Politics",
+    "Frigate - Open Source NVR.md",
+    "Raspberry Pi Security Camera Setup.md",
+    "Readme.md",
+    "Python/List Comprehension.md",
+    "Python/Slices.md",
+    "Statistics/Random Variable.md",
+    "Statistics/Random Variable Graph.canvas",
+    "AI/Agents.md",
+    "Machine Learning/Batch vs Epoch vs Iteration.md",
+    "Machine Learning/Supervised v Unsupervised Learning.md",
+    "AI",
+    "Machine Learning/RAG.md",
+    "Machine Learning/LoRA.md",
+    "Machine Learning/Full Fine-Tuning vs LoRA vs RAG.md",
+    "Machine Learning/Fine-Tuning.md",
+    "Machine Learning/Features.md",
+    "Web Development/Website Builder Options.md",
+    "Vim/Advanced Guide.md",
+    "Vim/Vim Cheat-Sheet.md",
+    "Web Development",
+    "Machine Learning/Deep Learning/LeCunn Deep Learning Paper.md",
+    "Linux/Sockets.md",
+    "2024-07-04.md",
+    "Untitled.canvas",
+    "Vim",
+    "Fine-Tuning.md",
+    "Machine Learning/Andrej Karpathy Lectures/Makemore/Makemore pt. 3.md",
+    "Machine Learning/Key Ideas in Machine Learning.md",
+    "Machine Learning/Andrej Karpathy Lectures/Makemore/Makemore pt. 2.md",
+    "Machine Learning/Andrej Karpathy Lectures/Micrograd.md",
+    "Prompt Engineering",
+    "Python",
+    "Machine Learning/Andrej Karpathy Lectures",
+    "Machine Learning/Deep Learning",
+    "Machine Learning/Andrej Karpathy Lectures/Makemore",
+    "Linux",
+    "Networking"
+  ]
+}

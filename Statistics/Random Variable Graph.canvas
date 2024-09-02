@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"692fe4ac8cde0597","type":"text","text":"Random variable","x":-180,"y":220,"width":250,"height":60,"color":"1"},
+		{"id":"22d4400d5aba67e1","type":"text","text":"Event","x":-180,"y":360,"width":250,"height":60,"color":"4"},
+		{"id":"cd578979d2d9537b","type":"text","text":"Probability","x":40,"y":-60,"width":250,"height":60,"color":"5"},
+		{"id":"a1031517ed2ea8f9","type":"text","text":"Probability","x":-400,"y":-60,"width":250,"height":60,"color":"5"},
+		{"id":"1c72d6671747023f","type":"text","text":"outcome","x":-305,"y":80,"width":250,"height":60,"color":"3"},
+		{"id":"0aa019225d0aa4d2","type":"text","text":"outcome","x":-40,"y":80,"width":250,"height":60,"color":"3"},
+		{"id":"81aea98d41acfcfa","type":"file","file":"Statistics/Random Variable.md","x":100,"y":225,"width":300,"height":50}
+	],
+	"edges":[
+		{"id":"af611849e88720bf","fromNode":"692fe4ac8cde0597","fromSide":"top","toNode":"1c72d6671747023f","toSide":"bottom"},
+		{"id":"ae8992dcb88c7621","fromNode":"22d4400d5aba67e1","fromSide":"top","toNode":"692fe4ac8cde0597","toSide":"bottom"},
+		{"id":"e19641e0e6ad1065","fromNode":"692fe4ac8cde0597","fromSide":"top","toNode":"0aa019225d0aa4d2","toSide":"bottom"},
+		{"id":"e1e2619ba1f268e1","fromNode":"1c72d6671747023f","fromSide":"top","toNode":"a1031517ed2ea8f9","toSide":"bottom"},
+		{"id":"f86fd90563e1db17","fromNode":"0aa019225d0aa4d2","fromSide":"top","toNode":"cd578979d2d9537b","toSide":"bottom"},
+		{"id":"2198a27de5713392","fromNode":"692fe4ac8cde0597","fromSide":"right","toNode":"81aea98d41acfcfa","toSide":"left"},
+		{"id":"d4d887ef16fa9b12","fromNode":"81aea98d41acfcfa","fromSide":"left","toNode":"692fe4ac8cde0597","toSide":"right"}
+	]
+}

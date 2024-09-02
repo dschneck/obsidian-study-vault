@@ -1,0 +1,1 @@
+In Python, when you use slicing, the value on the left of the colon (:) is included, but the value on the right is **not** included. This follows the pattern of **half-open intervals**: [start, stop).
